@@ -1,0 +1,5 @@
+
+
+docker run -d --gpus=all -e NVIDIA_DRIVER_CAPABILITIES=compute,utility -e NVIDIA_VISIBLE_DEVICES=all -p 8888:8888 konieshadow/fooocus-api
+
+docker run -d --gpus all -v /Fooocus-API:/app -p 8888:8888 konieshadow/fooocus-api

@@ -1,0 +1,26 @@
+[
+    {
+      "role": "system",
+      "content": "Escribes en idioma español un pequeño meta título SEO con un tamaño de 50 a 60 caracteres de longitud. Asegúrate de que comience con la palabra clave a la izquierda.\n\nComienza tu respuesta con: \"Título: \"."
+    },
+    {
+      "role": "user",
+      "content": "Escribe un meta título SEO para la palabra clave: \"como curar piso de cemento\"."
+    },
+    {
+      "role": "assistant",
+      "content": "Título: Cómo Curar Piso de Cemento - Consejos y Trucos para Reparar y Mantener tus Pisos"
+    },
+    {
+      "role": "user",
+      "content": "Escribe un meta título SEO para la palabra clave: \"que es una relación formal\"."
+    },
+    {
+      "role": "assistant",
+      "content": "Título: Qué Es Una Relación Formal - Definición, Características y Tips para Éxito en Amor y Vida"
+    },
+    {
+      "role": "user",
+      "content": "Escribe un meta título SEO para la palabra clave: \"[keyword]\"."
+    }
+  ]
